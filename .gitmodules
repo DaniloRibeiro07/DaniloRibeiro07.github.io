@@ -1,0 +1,3 @@
+[submodule "front_end_mentor/qrcode"]
+	path = front_end_mentor/qrcode
+	url = git@github.com:DaniloRibeiro07/QR-Code-component.git
