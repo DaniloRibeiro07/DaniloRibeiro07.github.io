@@ -4,3 +4,6 @@
 [submodule "front_end_mentor/recipe-page"]
 	path = front_end_mentor/recipe-page
 	url = git@github.com:DaniloRibeiro07/recipe-page.git
+[submodule "front_end_mentor/blog-preview"]
+	path = front_end_mentor/blog-preview
+	url = git@github.com:DaniloRibeiro07/frontendmentor-blog-preview-card-main.git
